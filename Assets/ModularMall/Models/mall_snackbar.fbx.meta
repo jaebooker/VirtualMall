@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 6baf423a2572d5f47810de4e3314b197
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube.001
+    100002: //RootNode
+    100004: snackbar_desk
+    100006: snackbar_overhang
+    100008: Cylinder.001
+    100010: Cylinder.002
+    100012: Cylinder.003
+    100014: Cylinder.004
+    100016: Cylinder.005
+    100018: Cylinder.006
+    100020: snackbar_centerTable
+    100022: snackbar_centerTable_drawers
+    400000: Cube.001
+    400002: //RootNode
+    400004: snackbar_desk
+    400006: snackbar_overhang
+    400008: Cylinder.001
+    400010: Cylinder.002
+    400012: Cylinder.003
+    400014: Cylinder.004
+    400016: Cylinder.005
+    400018: Cylinder.006
+    400020: snackbar_centerTable
+    400022: snackbar_centerTable_drawers
+    2100000: No Name
+    2100002: TT_checker_2048x2048_UV_GRID
+    2100004: mall_trims
+    2100006: mall_glass
+    2100008: mall_metal
+    2100010: mall_matteBlack
+    2100012: mall_glossWhite
+    2100014: mall_tiles03
+    2300000: Cube.001
+    2300002: snackbar_desk
+    2300004: snackbar_overhang
+    2300006: //RootNode
+    2300008: Cylinder.001
+    2300010: Cylinder.002
+    2300012: Cylinder.003
+    2300014: Cylinder.004
+    2300016: Cylinder.005
+    2300018: Cylinder.006
+    2300020: snackbar_centerTable
+    2300022: snackbar_centerTable_drawers
+    3300000: Cube.001
+    3300002: snackbar_desk
+    3300004: snackbar_overhang
+    3300006: //RootNode
+    3300008: Cylinder.001
+    3300010: Cylinder.002
+    3300012: Cylinder.003
+    3300014: Cylinder.004
+    3300016: Cylinder.005
+    3300018: Cylinder.006
+    3300020: snackbar_centerTable
+    3300022: snackbar_centerTable_drawers
+    4300000: Cube.001
+    4300002: snackbar_overhang
+    4300004: snackbar_desk
+    4300006: Cylinder.001
+    4300008: Cylinder.003
+    4300010: Cylinder.002
+    4300012: Cylinder.004
+    4300014: Cylinder.005
+    4300016: Cylinder.006
+    4300018: snackbar_centerTable
+    4300020: snackbar_centerTable_drawers
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 87f797343cd9eaa4f89e122d664717b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TT_checker_2048x2048_UV_GRID
+    second: {fileID: 2100000, guid: 87f797343cd9eaa4f89e122d664717b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mall_glass
+    second: {fileID: 2100000, guid: 2682da0e346ddb6479b9c00dde2a4c90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mall_glossWhite
+    second: {fileID: 2100000, guid: 5c7e1f56fb9f8994abca317f0a88419c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mall_matteBlack
+    second: {fileID: 2100000, guid: 207118e83b4f7114f91d31cc041463b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mall_metal
+    second: {fileID: 2100000, guid: 26a3eccca2bf5ca43a757b571058d4f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mall_tiles03
+    second: {fileID: 2100000, guid: 19a87eca2e8b10b4da8717f05dee7866, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mall_trims
+    second: {fileID: 2100000, guid: 4b16f083c3897f74cb6b5096e4895c44, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
